@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
+"companyName": "Mas.V",
 "productName": "sgv2",
-"productVersion": "0.1",
+"productVersion": "0.11",
 "dataUrl": "Desktop.data.unityweb",
 "wasmCodeUrl": "Desktop.wasm.code.unityweb",
 "wasmFrameworkUrl": "Desktop.wasm.framework.unityweb",
